@@ -1,5 +1,3 @@
-## App MyTask
----
 ## 💻 Projeto
 
 Projeto que armazena uma lista de tarefas.
